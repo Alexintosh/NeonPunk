@@ -1,8 +1,101 @@
-# Smart Contract Boilerplate
+# **NeonPunk Protocol: Liquidity Gaming Fentanyl**
+<img src="imgs/neonpunk_banner.png" alt="NeonPunk Banner" width="100%">
+---
+
+### **1. Introduction: ready for liquidity fentanyl?**
+
+What if you could see **ETH at $10,000 today**?  
+What if **USDC** could be worth **$2** in your wallet?  
+
+NeonPunk isn’t here to play safe. We’re here to disrupt the liquidity game by merging DeFi mechanics with the adrenaline of high-stakes gaming. Forget waiting for market pumps—this is about seizing the moment.
+
+---
+
+### **2. The Problem: DeFi Is Boring and Everyone’s Chasing Memes**
+
+Let’s stop pretending: DeFi is stale. Yield farming? Played out. Liquidity pools? Meh. Everyone is too busy chasing the next **Shiba 2.0** or **Inu Cum Rocket ButtNigga**. Instead of revolutionizing finance, the space has devolved into a glorified casino, with traders aping into memecoins hoping to strike it rich.
+
+Here’s the truth:  
+Platforms like **pump.fun** are launching **thousands of tokens daily**. Last week alone, **31,600 tokens** hit the market in just **24 hours**. You think you can pick a winner? Good luck. The odds of finding a token that actually pumps and sustains value are about as slim as hitting blackjack five times in a row. In fact, **less than 2%** of tokens survive long enough to even make it to a proper listing. The rest? Rugged, forgotten, or outright scams.
+
+You’re not trading; you’re gambling blind. And yet, the market eats it up. Why? Because at least memecoins are exciting.
+
+NeonPunk is here to change the game. We’re bringing the thrill back to DeFi with real odds, real payouts, and a system that doesn’t make you feel like a sucker chasing vaporware.
+
+---
+
+### **3. Real Odds: How Gambling Compares**
+
+You’re already gambling if you’re in DeFi, but let’s compare:
+
+| **Country**   | **Game**           | **Odds of Winning**       | **Payout Ratio**      |
+|---------------|---------------------|---------------------------|------------------------|
+| **USA**       | Powerball           | 1 in 292,201,338          | ~$0.50 per $1 spent   |
+|               | Vegas Slots         | 1 in 12,000 (jackpot)     | 85%-90% payback        |
+| **Thailand**  | Lottery Tickets     | 1 in 1,000,000 (big prize)| ~$0.70 per $1 spent   |
+| **Spain**     | La Primitiva        | 1 in 139,838,160          | ~$0.55 per $1 spent   |
+
+Compare these to **NeonPunk’s gaming model**:
+- Odds as favorable as **1 in 10,000**.
+- Transparent, on-chain verification.
+- **50%-80% payout efficiency**, with higher liquidity turnover.
+
+---
+
+### **4. Exclusive Liquidity Rights: The Gate to Big Money for Kabala Depositors Only**
+
+NeonPunk isn’t open to just anyone. Access to the protocol’s liquidity pool is **limited** to a select group of users who hold the **NeonPunk Deposit Rights**. 
+
+These rights are tokenized and tradeable, giving their owners the exclusive ability to deposit liquidity and earn massive returns. Why? Because every game, every ticket purchase, and every payout flows through their deposits.
+
+**What does this mean?**  
+If you hold a NeonPunk Deposit Right, you’re in control of a high-demand asset. As the protocol grows, so does the value of these rights. This isn’t just passive income—it’s a golden ticket to being part of a system designed to generate continuous cash flow.
+
+---
+
+### **5. How NeonPunk Works**
+
+- **Core Mechanism**: Deposit ETH, USDC, or other tokens, set your sale price, and enter a queue.
+- **Gaming Integration**: Use liquidity to power high-stakes games. Every ticket purchased moves you closer to your payout goal.
+- **Protocol Fees**: A small cut on every payout sustains the ecosystem while keeping incentives aligned.
+
+---
+
+### **6. Why Play on NeonPunk?**  
+
+- **Best Odds in DeFi**: As low as 1 in 2.
+- **Provably Fair**: Every game is verifiable on-chain.
+- **Game Diversity**: Multiple game types developed by indipendent teams.
+
+---
+
+### **7. Incentives : Rewarding The Fairest Depositors**
+
+NeonPunk isn’t just about providing liquidity—it’s about optimizing it. Depositors are **incentivized** to offer better odds, creating a more attractive environment for players. 
+
+The rules are simple:  
+- The **better the odds**, the **greater the rewards** in **$NPK**.
+- **Example**:  
+  - Deposit **1 ETH** with a sell price of **$5,000** → **2x $NPK rewards**.  
+  - Deposit **1 ETH** with a sell price of **$10,000** → **1x $NPK rewards**.
+
+This dynamic encourages a competitive ecosystem where depositors strive to balance personal profits with system liquidity, keeping the games enticing and the payouts flowing.
+
+---
+
+### **8. Bring Your Own Frontend: Build Your Degen Game, Get Paid**
+<img src="imgs/make-your-own-game.png" alt="NeonPunk Banner" width="100%">
+
+NeonPunk isn’t just for depositors—it’s an open playground for developers. Anyone can build their own game frontend and hook into the protocol. 
+
+**Here’s how it works**:  
+- Create any type of game you want—**weird, wild, or downright degenerate**.
+- Direct users to your frontend and let them play.
+- Pass a **referral** to the smart contract, and you’ll get rewarded based on the **volume** your game generates.
+
+The more players you bring in, the bigger your cut. **Unleash your creativity** and craft the next big thing—whether it’s a neon slot machine, a dystopian roulette, or something the world has never seen.
 
 ![Status][test-status]
-
-This is a starter package for setting up a new Foundry project for Auxo. It builds on the foundry starter with a few additional setup steps and defined conventions that we use in Auxo projects.
 
 # Setup
 
