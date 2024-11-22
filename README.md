@@ -9,8 +9,7 @@ What if **USDC** could be worth **$2** in your wallet?
 
 NeonPunk isn’t here to play safe. We’re here to disrupt the liquidity game by merging DeFi mechanics with the adrenaline of high-stakes gaming. Forget waiting for market pumps—this is about seizing the moment.
 
-
-
+<img src="imgs/diagram.png" alt="How does it work?" width="100%">
 ---
 
 ### **2. The Problem: DeFi Is Boring and Everyone’s Chasing Memes**
