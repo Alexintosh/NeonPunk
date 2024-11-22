@@ -9,6 +9,8 @@ What if **USDC** could be worth **$2** in your wallet?
 
 NeonPunk isn’t here to play safe. We’re here to disrupt the liquidity game by merging DeFi mechanics with the adrenaline of high-stakes gaming. Forget waiting for market pumps—this is about seizing the moment.
 
+
+
 ---
 
 ### **2. The Problem: DeFi Is Boring and Everyone’s Chasing Memes**
@@ -94,6 +96,103 @@ NeonPunk isn’t just for depositors—it’s an open playground for developers.
 - Pass a **referral** to the smart contract, and you’ll get rewarded based on the **volume** your game generates.
 
 The more players you bring in, the bigger your cut. **Unleash your creativity** and craft the next big thing—whether it’s a neon slot machine, a dystopian roulette, or something the world has never seen.
+
+
+---------
+
+
+# **FAQ: Addressing Key Questions and Concerns**
+
+---
+
+### **1. Is the order book queue strictly FIFO (First-In-First-Out)?**
+Not necessarily. While FIFO is a straightforward mechanism, the queue can incorporate additional financial games or prioritize orders by price. For instance:
+- Users can pay for FIFO placement.
+- Orders may be sorted by price or other factors.
+
+The exact queue mechanism is flexible and can evolve over time to suit the protocol’s goals.
+
+---
+
+### **2. What determines the value of Depositor Rights (DR)?**
+The value of Depositor Rights is dynamic and market-driven. Key factors include:
+- The scarcity of DR due to the gatekeeping mechanism.
+- Expected revenue from deposits.
+- The bonding mechanism, which requires buyers to take on risk or buy at a premium on secondary markets.
+
+As the protocol grows, the demand for DR is expected to increase, potentially converging closer to their true market value.
+
+---
+
+### **3. How do integrators fit into the system?**
+Integrators play a critical role by integrating their games with the protocol and attracting player volume. Here's how it works:
+- **Revenue Sharing:** Integrators collect revenue from players (e.g., $1 per play) and forward it to the NeonPunk protocol.
+- **Subsidy:** Integrators receive a subsidy (e.g., $1 revenue might yield $1.5 in NPT tokens) that can be staked for additional rewards.
+- **Volume Incentives:** The more player volume an integrator generates, the better their overall rewards and standing.
+
+Integrators essentially compete against one another based on the volume of players they attract.
+
+---
+
+### **4. Why wouldn’t integrators encapsulate payments?**
+Integrators have full control over how they structure their pricing and revenue streams. For example:
+- An integrator could charge $2 per game round, forward $1 to the protocol, and keep the difference.
+- They still benefit from the NeonPunk subsidy system, as well as the rewards associated with higher player volume.
+
+This flexibility ensures that integrators can adapt their strategies to their specific product offerings while aligning with protocol incentives.
+
+---
+
+### **5. How does the system work without randomness (e.g., VRF)?**
+Without randomness, the system becomes more like a liquidity pool that game developers can manipulate. However, this creates potential vulnerabilities, such as:
+- The odds being skewed in favor of the game developers.
+- Reduced fairness and trust in the system.
+
+For this reason, the protocol enforces randomness through a VRF wrapper to guarantee provable fairness and prevent gaming the system.
+
+---
+
+### **6. What happens when integrator pool size grows?**
+As more integrators join:
+- **Competition increases:** Integrators must compete for player volume to maximize their rewards.
+- **Reduced subsidy dependence:** Over time, gatekeeping on DR ensures the protocol generates higher revenues, allowing subsidies to decrease without harming integrator incentives.
+
+This ensures the system remains sustainable while creating long-term value for both the protocol and integrators.
+
+---
+
+### **7. Why does NeonPunk avoid being a DAO?**
+Avoiding a DAO structure ensures:
+- Greater control over deal-making (e.g., exclusivity agreements, custom subsidies for key integrators).
+- Reduced risk of forking or dilution of the system’s value proposition.
+- A more centralized approach to building partnerships and scaling the protocol in its early stages.
+
+While this limits certain decentralized aspects, it aligns with the goal of maintaining a competitive edge and preventing exploitation.
+
+---
+
+### **8. What makes this system scalable in the long term?**
+The scalability of NeonPunk lies in:
+- **Gatekeeping Depositor Rights:** As demand for integration grows, DR scarcity ensures that their value increases, generating more revenue for the protocol.
+- **Sustainable Subsidies:** The system is designed to reduce subsidy reliance over time as integrators generate higher revenues.
+- **Fair Competition:** Integrators compete on volume and innovation, driving growth across the ecosystem.
+
+---
+
+### **9. How does NeonPunk incentivize integrators to onboard players?**
+Integrators benefit from:
+- **50% Cashback:** A subsidy mechanism allows integrators to earn more in NPT tokens than their direct revenue.
+- **Free Liquidity:** Integrators can plug into the protocol’s liquidity to offer verifiably fair prizes without needing to fund them upfront.
+- **Volume-Based Rewards:** Higher player volume means more rewards, creating a direct incentive to onboard as many players as possible.
+
+---
+
+### **10. What happens as the subsidy decreases?**
+As the protocol matures and subsidies reduce:
+- The value of Depositor Rights increases due to higher protocol revenues, making integration more lucrative.
+- Integrators can offset the lower subsidies with increased player volumes and market-driven revenues.
+- The protocol gains stability, relying less on bootstrapping mechanisms and more on organic growth.
+- 
 
 ![Status][test-status]
 
